@@ -1,14 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Skiaman21&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Data%20Analyst%20%7C%20Turning%20Data%20into%20Decisions&descAlignY=60&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F7A833&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Data+Analyst+%7C+Excel+%7C+Power+BI;SQL+%2B+Python+%3D+%E2%9D%A4%EF%B8%8F;Turning+Raw+Data+into+Real+Insights" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=skiaman21&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views"/>
-
-</div>
-
-<br>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Hi%20There!%20I'm%20Aman%20Singh%20Rawat&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20Turning%20Data%20into%20Decisions&descAlignY=55&descSize=16" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F7A833&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Data+Analyst+%7C+Excel+%7C+Power+BI;SQL+%2B+Python+%3D+%E2%9D%A4%EF%B8%8F;Turning+Raw+Data+into+Real+Insights" alt="Typing SVG" /> <img src="https://komarev.com/ghpvc/?username=skiaman21&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views"/> </div> <br>
 
 ## 🧑‍💻 About Me
 
