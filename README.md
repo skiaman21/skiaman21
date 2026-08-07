@@ -44,27 +44,8 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="center"> <a href="https://github.com/skiaman21/PowerBi-Mobile-Sales-Dashboard"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=skiaman21&repo=PowerBi-Mobile-Sales-Dashboard&theme=radical&hide_border=true"/> </a> <a href="https://github.com/skiaman21/Pizza-Sales-SQL-Project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=skiaman21&repo=Pizza-Sales-SQL-Project&theme=radical&hide_border=true"/> </a> <br> <a href="https://github.com/skiaman21/Online-Book-Store-SQL-Project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=skiaman21&repo=Online-Book-Store-SQL-Project&theme=radical&hide_border=true"/> </a> </div> <br>
 
-<a href="https://github.com/skiaman21/PowerBi-Mobile-Sales-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=skiaman21&repo=REPO-NAME-1&theme=radical&hide_border=true"/>
-</a>
-<a href="https://github.com/skiaman21/Pizza-Sales-SQL-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=skiaman21&repo=REPO-NAME-2&theme=radical&hide_border=true"/>
-</a>
-
-<br>
-
-<a href="https://github.com/skiaman21/Online-Book-Store-SQL-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=skiaman21&repo=REPO-NAME-3&theme=radical&hide_border=true"/>
-</a>
-<a href="https://github.com/skiaman21/REPO-NAME-4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=skiaman21&repo=REPO-NAME-4&theme=radical&hide_border=true"/>
-</a>
-
-</div>
-
-<br>
 
 ## 🤝 Connect With Me
 
