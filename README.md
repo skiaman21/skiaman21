@@ -46,16 +46,16 @@
 
 <div align="center">
 
-<a href="https://github.com/skiaman21/REPO-NAME-1">
+<a href="https://github.com/skiaman21/PowerBi-Mobile-Sales-Dashboard">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=skiaman21&repo=REPO-NAME-1&theme=radical&hide_border=true"/>
 </a>
-<a href="https://github.com/skiaman21/REPO-NAME-2">
+<a href="https://github.com/skiaman21/Pizza-Sales-SQL-Project">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=skiaman21&repo=REPO-NAME-2&theme=radical&hide_border=true"/>
 </a>
 
 <br>
 
-<a href="https://github.com/skiaman21/REPO-NAME-3">
+<a href="https://github.com/skiaman21/Online-Book-Store-SQL-Project">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=skiaman21&repo=REPO-NAME-3&theme=radical&hide_border=true"/>
 </a>
 <a href="https://github.com/skiaman21/REPO-NAME-4">
