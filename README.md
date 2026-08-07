@@ -44,7 +44,7 @@
 
 ## 🚀 Featured Projects
 
-<div align="center"> <a href="https://github.com/skiaman21/PowerBi-Mobile-Sales-Dashboard"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=skiaman21&repo=PowerBi-Mobile-Sales-Dashboard&theme=radical&hide_border=true"/> </a> <a href="https://github.com/skiaman21/Pizza-Sales-SQL-Project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=skiaman21&repo=Pizza-Sales-SQL-Project&theme=radical&hide_border=true"/> </a> <br> <a href="https://github.com/skiaman21/Online-Book-Store-SQL-Project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=skiaman21&repo=Online-Book-Store-SQL-Project&theme=radical&hide_border=true"/> </a> </div> <br>
+<table> <tr> <td width="50%"> <a href="https://github.com/skiaman21/PowerBi-Mobile-Sales-Dashboard"> <h3>📊 PowerBi Mobile Sales Dashboard</h3> </a> Interactive sales dashboard built in Power BI, optimized for mobile viewing. <br><br> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> </td> <td width="50%"> <a href="https://github.com/skiaman21/Pizza-Sales-SQL-Project"> <h3>🍕 Pizza Sales SQL Project</h3> </a> SQL-based analysis of pizza sales data — queries, trends, and insights. <br><br> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> </td> </tr> <tr> <td width="50%"> <a href="https://github.com/skiaman21/Online-Book-Store-SQL-Project"> <h3>📚 Online Book Store SQL Project</h3> </a> Database design and SQL queries for an online bookstore system. <br><br> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> </td> <td width="50%"></td> </tr> </table> <br>
 
 
 ## 🤝 Connect With Me
