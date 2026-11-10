@@ -44,7 +44,57 @@
 
 ## 🚀 Featured Projects
 
-<table> <tr> <td width="50%"> <a href="https://github.com/skiaman21/PowerBi-Mobile-Sales-Dashboard"> <h3>📊 PowerBi Mobile Sales Dashboard</h3> </a> Interactive sales dashboard built in Power BI, optimized for mobile viewing. <br><br> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> </td> <td width="50%"> <a href="https://github.com/skiaman21/Pizza-Sales-SQL-Project"> <h3>🍕 Pizza Sales SQL Project</h3> </a> SQL-based analysis of pizza sales data — queries, trends, and insights. <br><br> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> </td> </tr> <tr> <td width="50%"> <a href="https://github.com/skiaman21/Online-Book-Store-SQL-Project"> <h3>📚 Online Book Store SQL Project</h3> </a> Database design and SQL queries for an online bookstore system. <br><br> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> </td> <td width="50%"></td> </tr> </table> <br>
+Here are some of my recent Data Analytics projects, showcasing my skills in SQL, Python, Excel, and Power BI.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📣 Marketing Campaign Performance Analysis</h3>
+      <a href="https://github.com/skiaman21/Marketing-Campaign-Performance-Analysis">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <p>Analyzed 1,800 marketing campaign records to evaluate advertising performance, revenue, conversions, and Return on Ad Spend (ROAS). Used Python for data cleaning and Power BI for interactive dashboards.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/DAX-1E4D2B?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Telecom Customer Churn & Revenue Loss Analysis</h3>
+      <a href="https://github.com/skiaman21/Telecom-Customer-Churn-Analysis">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <p>Analyzed 7,043 telecom customer records to identify churn patterns, quantify revenue loss, and discover customer retention opportunities through an end-to-end analytics workflow.</p>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚚 Logistics Delivery Performance Dashboard</h3>
+      <a href="https://github.com/skiaman21/Logistic-Delivery-Performance-Dashboard">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <p>Developed an interactive Power BI dashboard to analyze shipping costs, delivery times, carrier performance, transportation modes, routes, and geographical distribution.</p>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square"/>
+      <img src="https://img.shields.io/badge/DAX-1E4D2B?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ IKEA Gifting Customer Analytics & RFM Segmentation</h3>
+      <a href="https://github.com/skiaman21/IKEA-Customer-Analytics-and-RFM-Segmentation">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <p>Performed customer segmentation using RFM analysis to identify high-value, loyal, at-risk, and inactive customers. Built an end-to-end workflow using SQL, Python, and Power BI.</p>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 
 
 ## 🤝 Connect With Me
